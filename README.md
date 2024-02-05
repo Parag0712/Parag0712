@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Parag Vadgama
+# Hi there 👋 I'am Parag Vadgama
 
 ## Full-Stack Web Devloper
 
