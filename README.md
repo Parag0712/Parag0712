@@ -1,9 +1,11 @@
-# Hi there 👋 I'am Parag Vadgama
+# Parag Vadgama
+## Full-Stack Web Developer | Computer Science Engineering Student
 
-## Full-Stack Web Devloper
+### Education
+- Pursuing B.Tech in Computer Science Engineering
+- Second Year at Charotar University of Science and Technology, Gujarat
 
-## :student: What i Know
-
+### Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,tailwind,materialui,ts,react,redux,nodejs,java,py,express,php,appwrite,firebase,mongodb,mysql,visualstudio,vscode,github,git,vite,vercel,postman,androidstudio)
 
 ## 📫 How to reach me:
