@@ -10,6 +10,6 @@
 
 ## 📫 How to reach me:
 
-[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/) 
-[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/) 
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/parag-vadgama-1265b42a3/) 
+[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/Parag0712/Parag0712) 
 [![Contact with me](https://skillicons.dev/icons?i=twitter)](https://twitter.com/)
