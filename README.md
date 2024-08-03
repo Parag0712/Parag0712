@@ -1,5 +1,5 @@
 
-# Parag Vadgama
+# Hello 👋, I'm Parag Vadgama
 ## Full-Stack Web Developer | Computer Science Engineering Student
 
 ## About Me
