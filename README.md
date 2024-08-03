@@ -1,8 +1,5 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hello 👋, I'm Parag Vadgama</h1>
 <h3 align="center">Full-Stack Web Developer | Computer Science Engineering Student</h3>
 
@@ -43,45 +40,99 @@
 </p>
 
 <!-- Technologies -->
-## Technologies I Work With 👨🏻‍💻
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,tailwind,materialui,ts,react,redux,nodejs,java,py,express,php,appwrite,firebase,mongodb,mysql,visualstudio,vscode,github,git,vite,vercel,postman,androidstudio&perline=14" alt="Tech Stack"/>
-</p>
+## Languages and Tools I Use 👨🏻‍💻
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,php"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui,shadcn,magicui,html,css"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated Testing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
+    </tr>
+</table>
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,python,php,dart"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,php"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,graphql,html,css"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database/ORM/ODM:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,vercel,netlify"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated Testing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,visualstudio,replit"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=wordpress,appwrite,firebase,npm,androidstudio"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux,macos"/></td>
+    </tr>
+</table>
+## 📫 How to reach me:
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/parag-vadgama-1265b42a3/) 
+[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/Parag0712/Parag0712) 
+[![Contact with me](https://skillicons.dev/icons?i=twitter)](https://twitter.com/)
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
-<!-- Technologies -->
-## Technologies I Work With 👨🏻‍💻
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,tailwind,materialui,ts,react,redux,nodejs,java,py,express,php,appwrite,firebase,mongodb,mysql,visualstudio,vscode,github,git,vite,vercel,postman,androidstudio&perline=14" alt="Tech Stack"/>
-</p>
 
-<!-- Connect with Me -->
-## Connect With Me 🤝
-<p align="center">
-  <a href="https://www.linkedin.com/in/parag-vadgama-1265b42a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/ParagVadgama" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/parag_vadgama/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://paragv.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-  </a>
-  <a href="https://discordapp.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-<!-- Profile visit count -->
-## Profile Visit Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Parag0712&icon=3&color=6" alt="Profile Visit Count"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <i>Credit: <a href="https://github.com/Parag0712">Parag Vadgama</a></i><br/>
-  <i>Last Edited on: 4/8/2024</i>
-</p>
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
