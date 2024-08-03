@@ -1,17 +1,15 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hello 👋, I'm Parag Vadgama</h1>
-<h3 align="center">Full-Stack Web Developer | Computer Science Engineering Student</h3>
+# Parag Vadgama
+## Full-Stack Web Developer | Computer Science Engineering Student
 
-<!-- About Me -->
 ## About Me
-- 🔭 I’m currently working on **building scalable applications using React, Next.js, and Node.js**
-- 🌱 I’m learning **advanced TypeScript features and exploring cloud technologies**
-- ☁️ Passionate about **Cloud Computing**, currently diving into **AWS and Vercel**
-- 📝 I write articles and tutorials on **[Hashnode](https://paragv.hashnode.dev/)**
-- 💬 Feel free to ask me about **React, Next.js, Node.js, TypeScript, or cloud computing**
-- 📫 Reach out to me via **[Email](mailto:paragvadgama@example.com)**
-- 🏠 Connect with me on Discord: **[ParagVadgama](https://discordapp.com/users/your-discord-id)**
+- 🔭 I’m a Full Stack Developer specializing in Next.js, TypeScript, and MERN stack
+- 🌱 I’m learning **DevOps and AI**, and I’m a **curious learner** always exploring new technologies
+- 🎓 I’m a **3rd-year BTech student** at **Charusat University**
+- 💬 Feel free to ask me about **Next.js, TypeScript, MERN stack**
+- 🚀 I enjoy **working on challenging projects** and **collaborating with others** to solve problems
+- 📈 I’m passionate about **staying updated with industry trends** and continuously **improving my skills**
+- 📫 Reach out to me via **[Email](mailto:paragvadgama123@gmail.com)**
 
 <!-- Stats and Trophy -->
 ## My Stats
@@ -89,10 +87,12 @@
 [![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/parag-vadgama-1265b42a3/) 
 [![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/Parag0712/Parag0712) 
 [![Contact with me](https://skillicons.dev/icons?i=twitter)](https://twitter.com/)
+[![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:paragvadgama123@gmail.com)
+
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Parag0712&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
