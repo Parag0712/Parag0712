@@ -9,8 +9,8 @@
 - 💬 Feel free to ask me about **Next.js, TypeScript, MERN stack**
 - 🚀 I enjoy **working on challenging projects** and **collaborating with others** to solve problems
 - 📈 I’m passionate about **staying updated with industry trends** and continuously **improving my skills**
-- 📫 Reach out to me via **[Email](mailto:paragvadgama123@gmail.com)**
-
+- 📫 Reach out to me via **[Email](mailto:paragvadgama123@gmail.com)** or check out my **[Portfolio](https://paragvadgama.me)**
+- 
 <!-- Stats and Trophy -->
 ## My Stats
 <p align="center">
@@ -87,9 +87,7 @@
 [![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/parag-vadgama-1265b42a3/) 
 [![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/Parag0712/Parag0712) 
 [![Contact with me](https://skillicons.dev/icons?i=twitter)](https://twitter.com/)
-[![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:paragvadgama123@gmail.com)
-[![Portfolio](https://skillicons.dev/icons?i=webflow)](https://paragvadgama.me)
-<!--profile visit count-->
+[![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:paragvadgama123@gmail.com)<!--profile visit count-->
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=Parag0712&icon=3&color=6)](https://visitcount.itsvg.in)
